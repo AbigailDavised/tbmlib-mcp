@@ -1,0 +1,16 @@
+{
+  "name": "tbmlib",
+  "version": "1.0.1",
+  "description": "Look up Tenor & F-attachment trombone slide positions (1st-7th), F-trigger & pitch adjustments.",
+  "homepage": "https://tbmlib.com",
+  "repository": "https://github.com/AbigailDavised/tbmlib-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "TbmLib",
+    "url": "https://tbmlib.com"
+  },
+  "mcpServers": "./mcp.json",
+  "skills": [
+    "./skills/tbmlib"
+  ]
+}

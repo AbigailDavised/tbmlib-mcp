@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tbmlib": {
+      "type": "streamable-http",
+      "url": "https://tbmlib.com/api/mcp"
+    }
+  }
+}
