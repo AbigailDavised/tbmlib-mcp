@@ -1,4 +1,6 @@
-# TbmLib — Tenor & F-Attachment Trombone Slide Position & Overtones Engine
+
+
+[![mcptry](https://mcptry.com/badge/com.tbmlib/mcp)](https://mcptry.com/servers/com.tbmlib/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-tbmlib.com-blue)](https://tbmlib.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.tbmlib%2Fmcp-green)](https://www.mcptry.com/servers/com.tbmlib/mcp)
